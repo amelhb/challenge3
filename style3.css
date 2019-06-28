@@ -1,0 +1,165 @@
+.con{
+	    width: 100%;
+	    box-sizing: border-box;
+	    box-shadow: 0 0 3px #CACACA;
+	     max-width: 1045px;
+    margin-left: 150px;
+    border-top: 3px solid #f88c00;
+    position: relative;
+}
+.my-nav{
+position: absolute;
+z-index: 10;
+width: 100%;
+
+}
+
+.p1{
+
+background-image: url("img/bg4.jpg");
+ background-repeat:no-repeat;
+  background-size: cover;
+  margin-left: 0px;
+margin-right: 0px;
+}
+ .p2
+ {
+padding: 16pt 0;
+ }
+.p33{
+    width: 100%;
+    padding: 40pt 35px;
+    background-color: #F9F7D9;
+
+}
+
+.p3{
+	width: 100%;
+    padding: 48pt 40px;
+    color: white;
+    background-color: #ED6A5A;
+	/**background-image: url("bg2.jpeg");
+	 background-repeat:no-repeat;
+	*/
+background-size: cover;
+}
+
+
+.div2
+{
+	margin-top: 130px;
+	margin-bottom: 130px;
+	color: white;
+	text-align: center;
+  
+}
+.btn{
+	margin-left: 150px;
+} 
+.lead{
+	text-align: center;s
+	     width: 40%;
+    font-size: 30px;
+
+}
+
+footer{
+	    background-color: #55505C;
+    width: 100%;
+    padding: 16pt 0;
+    color: #d1d1d1;
+    font-weight: 300;
+    font-size: .85rem;s
+}
+h4{
+padding: 15px;
+  text-align: center;
+}
+    
+       ul, li{
+       	list-style-type: none;
+       }
+       .list{
+       	margin-top: 15px;
+       }
+}
+}
+
+
+.nav{
+           position: fixed;
+    width: 100%;
+    z-index: 100;
+    -webkit-transition: .7s;
+    transition: .7s;
+    height: 80px;
+}
+hr {
+  border: 10px solid #f88c00;
+  border-radius: 5px;
+  width: 50px;
+}
+.adr{
+	    font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgba(18,2,2,.9);
+    text-align: center;
+}
+.fa {
+	padding: 20px;
+  	display:inline-block;
+	position:relative;
+	margin:10 auto 0 auto;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	border-radius:50%;
+	text-align:center;
+	width: 50px;
+	height: 50px;
+	font-size:20px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+
+ul.social-network {
+	list-style: none;
+	display: inline;
+	margin-left:0 !important;
+	padding: 0;
+}
+ul.social-network li {
+	display: inline;
+	margin: 0 5px;
+}
